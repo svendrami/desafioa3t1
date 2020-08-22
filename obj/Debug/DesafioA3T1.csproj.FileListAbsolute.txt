@@ -1,0 +1,10 @@
+C:\Users\Rafael\source\repos\DesafioA3T1\bin\Debug\DesafioA3T1.exe.config
+C:\Users\Rafael\source\repos\DesafioA3T1\bin\Debug\DesafioA3T1.exe
+C:\Users\Rafael\source\repos\DesafioA3T1\bin\Debug\DesafioA3T1.pdb
+C:\Users\Rafael\source\repos\DesafioA3T1\obj\Debug\DesafioA3T1.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\DesafioA3T1\obj\Debug\DesafioA3T1.Form1.resources
+C:\Users\Rafael\source\repos\DesafioA3T1\obj\Debug\DesafioA3T1.Properties.Resources.resources
+C:\Users\Rafael\source\repos\DesafioA3T1\obj\Debug\DesafioA3T1.csproj.GenerateResource.cache
+C:\Users\Rafael\source\repos\DesafioA3T1\obj\Debug\DesafioA3T1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\DesafioA3T1\obj\Debug\DesafioA3T1.exe
+C:\Users\Rafael\source\repos\DesafioA3T1\obj\Debug\DesafioA3T1.pdb
